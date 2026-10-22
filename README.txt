@@ -1,32 +1,32 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Lukas Kvilitaia — Data Analyst Portfolio
 
+## Overview
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+This repository contains the source code for my personal portfolio website, showcasing my data analysis projects and technical skills as an aspiring Junior Data Analyst.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Live Portfolio
 
-(* = not included)
+**[Visit My Portfolio](https://dwarfy7.github.io/92700.1-IO/)**
 
-AJ
-aj@lkn.io | @ajlkn
+## Skills
 
+- Python and pandas
+- SQL and Microsoft SQL Server
+- Power BI
+- Data cleaning, exploratory data analysis, and data visualization
 
-Credits:
+## Featured Projects
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- **Python:** Video game data analysis using pandas and data visualization.
+- **SQL:** SQL exercises and course project work using Microsoft SQL Server.
+- **Power BI:** Data visualization and reporting projects.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Built With
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+- HTML5
+- CSS
+- JavaScript
+
+## Contact
+
+Please visit my portfolio website for my contact information and professional links.
